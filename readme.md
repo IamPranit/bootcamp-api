@@ -1,6 +1,6 @@
 # Bootcamp API
 
-> Backend API for DevCamper Application (Bootcamp directory website)
+> Backend API for Bootcamp Application (Bootcamp directory website)
 
 > NodeJS Project
 
